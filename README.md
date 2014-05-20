@@ -18,8 +18,10 @@ A collection of functions for working with Bitcoin in PHP.
  - Electrum MPK (Master Public Key)
 
 ##Usage
- `require_once(./mpkgen.php);
+ ```
+ require_once(./mpkgen.php);
  echo genBTCAddressFromMPK($master_public_key, $key_offset);`
+ ```
 
 ##Sources
  - https://github.com/mdanter/phpecc
