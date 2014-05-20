@@ -2,6 +2,9 @@ php-bitcoin
 ============
 A collection of functions for working with Bitcoin in PHP.
 
+* auto-gen TOC:
+{:toc}
+
 ##INSTALLATION
  - Create a copy of config_SAMPLE.php as config.php
  - Modify the config.php, filling out as necessary
