@@ -140,5 +140,3 @@ for($i=0;$i < $num_rounds;$i++){
 }
 
 echo '<hr />Execution time: '.(microtime(1) - $start_time);
-
-//var_dump(BWWC__MATH_generate_bitcoin_address_from_mpk('b5430fbaeb745611c515f93f044000b37deb2de3411ca1ed274506b472267c44da7ae1f5685c2a74872468d00251700f312ef72ee7a5fcf452a93651fd26e531', 0));
